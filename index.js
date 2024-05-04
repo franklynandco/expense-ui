@@ -1,0 +1,1 @@
+console.log('SpendWise microservices project is running...');
